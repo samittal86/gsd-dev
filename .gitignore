@@ -1,0 +1,8 @@
+apex-scripts
+config
+deploy
+debug
+.idea
+IlluminatedCloud
+*.iml
+build/orgs/*
